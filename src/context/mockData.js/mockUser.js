@@ -29,7 +29,7 @@ export default {
   hireable: null,
   bio: "You only live once, but if you do it right, once is enough - Mae West -",
   twitter_username: "tranquangkhai2612",
-  public_repos: 4,
+  public_repos: 5,
   public_gists: 1,
   followers: 10,
   following: 20,
