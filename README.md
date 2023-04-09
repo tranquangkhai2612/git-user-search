@@ -1,4 +1,5 @@
 # Github User Search ReactJS App
+![image](https://user-images.githubusercontent.com/103094267/230762822-b43aea1e-0716-4cbd-8f8f-74924889d6b5.png)
 
 ## Getting Started
 
