@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git-user-search/static/css/main.de065eb2.css",
+    "main.js": "/git-user-search/static/js/main.ff1fc277.js",
+    "static/media/preloader.gif": "/git-user-search/static/media/preloader.a6525050b19ec22d72cd.gif",
+    "static/media/login-img.svg": "/git-user-search/static/media/login-img.45d3b74fbb4ac483314eef377e006a54.svg",
+    "index.html": "/git-user-search/index.html",
+    "main.de065eb2.css.map": "/git-user-search/static/css/main.de065eb2.css.map",
+    "main.ff1fc277.js.map": "/git-user-search/static/js/main.ff1fc277.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de065eb2.css",
+    "static/js/main.ff1fc277.js"
+  ]
+}
